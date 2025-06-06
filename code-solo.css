@@ -16,6 +16,20 @@
 
 
 /** Styling for the items of Sample 1 **/
+.sample-1{
+    display: flex;
+    justify-content: flex-start
+}
+.sample-2{
+    display: flex;
+    justify-content: flex-start
+}
+img{
+    border: 5px solid black;
+    border-color: rgb(0, 0, 0);
+    border-bottom: 5px;
+    border-right: 5px;
+}
 .item-1 {
     margin: 5px;
     padding: 5px;
